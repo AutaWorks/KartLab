@@ -1,6 +1,6 @@
 KartLab is a technology-focused Minecraft mod that brings the world of electronics into the game. Build and assemble realistic computer components, craft advanced hardware, and progress through a unique tech tree that mirrors real-life electronics engineering.
 
-<img width="400" height="400" alt="KartLablogo" src="https://github.com/user-attachments/assets/76820d16-dff9-462d-9b0e-8fffae8faab8" />
+<img width="1536" height="1024" alt="KartLab" src="https://github.com/user-attachments/assets/76308b42-a8ff-4d1a-af5f-9c08ce6b524e" />
 
 Features:
 - Core Components: Craft CPUs, motherboards, EEPROMs, internal storage cards, and circuit boards.
