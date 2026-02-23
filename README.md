@@ -24,3 +24,11 @@ Version 1.1.0
 - Added official multi-language support
 - Now supports English and Turkish languages
 - Improved text alignment and label adjustments for a better user experience
+
+Version 1.1.5 Beta
+- Added Harddisk as a new component.
+- Updated computer crafting recipe.
+
+Version 1.2.0
+- Added Phone as a new craftable component.
+- Phone can now be used in computer crafting progression (future updates will expand functionality).
